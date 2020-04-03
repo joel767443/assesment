@@ -2,7 +2,7 @@
 
 I have created this app as part of an assessment today 2020-04-04. This is just a date picker but the mini project has webpack and other packages.
 
-##Installation
+#Installation
 1. Clone the project `git clone git@github.com:joel767443/assesment.git`
 2. cd assessment
 3. npm install
